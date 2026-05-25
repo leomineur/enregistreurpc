@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+    <channel>
+        <title>Enregistreur Protection Civile</title>
+        <link>https://github.com/leomineur/enregistreurpc</link>
+        <description>Mises à jour de l'application Enregistreur Protection Civile.</description>
+        <language>fr</language>
+
+        <!--
+        À chaque nouvelle version, ajouter un <item> ici. Exemple :
+
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>                 <!-- CURRENT_PROJECT_VERSION (build) -->
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>  <!-- MARKETING_VERSION -->
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Nouveautés</h3>
+                <ul>
+                    <li>Première mise à jour automatique via Sparkle</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v1.1/Enregistreur.Protection.Civile.dmg"
+                sparkle:edSignature="<SIGNATURE_GÉNÉRÉE_PAR_sign_update>"
+                length="<TAILLE_OCTETS_DU_DMG>"
+                type="application/octet-stream" />
+        </item>
+        -->
+    </channel>
+</rss>
