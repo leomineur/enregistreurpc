@@ -11,7 +11,7 @@
             <title>Version 1.1</title>
             <pubDate>Mon, 25 May 2026 11:54:51 +0000</pubDate>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:version>1.1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<p>Premier système de mise à jour automatique via Sparkle. Splash d&#x27;onboarding au premier lancement (micro, enregistrement d&#x27;écran, dossier de sauvegarde). Affichage en temps réel de la durée, taille et espace disque restant pendant l&#x27;enregistrement, avec arrêt automatique si l&#x27;espace devient critique.</p>]]></description>
             <enclosure
