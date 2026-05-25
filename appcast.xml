@@ -59,6 +59,19 @@
                 length="49643493"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 2.0</title>
+            <pubDate>Mon, 25 May 2026 16:05:44 +0000</pubDate>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Refonte majeure : mélangeur audio (gain micro/système 0-200%), VU-meter en temps réel, mode 3 fichiers séparés par défaut (vidéo + audio système + voix), transcription automatique via Whisper, identification automatique des voix (diarization via whisperX), surveillance d&#x27;espace disque avec arrêt automatique, splash de bienvenue pour les autorisations.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v2.0/EnregistreurPC.dmg"
+                sparkle:edSignature="Zf3jw5X+6Mx+lBgvhyeQdb9yyHdVn/LGMMwchl9CeOk4F3peNArkWWXJQ3g35QdS05rXuzXlg09CwJcJUrbsDw=="
+                length="3342544"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
