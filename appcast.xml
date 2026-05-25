@@ -24,7 +24,7 @@
             <title>Version 1.2</title>
             <pubDate>Mon, 25 May 2026 12:15:08 +0000</pubDate>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<p>Correction de bug de MaJ</p>]]></description>
             <enclosure
