@@ -46,6 +46,19 @@
                 length="23911274"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 1.5</title>
+            <pubDate>Mon, 25 May 2026 12:52:41 +0000</pubDate>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Correction de l&#x27;autorisation réseau qui empêchait la vérification des mises à jour. À partir de cette version, l&#x27;app pourra se mettre à jour automatiquement.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v1.5/EnregistreurPC.dmg"
+                sparkle:edSignature="UPOQdmgvHbIzd/a1PXK+eyR+HGzniAWrySRo03O2YeFMFa9bdBrhIutVuOraA68TKTfRsT3UmTnsyyK3M+FvBw=="
+                length="49643493"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
