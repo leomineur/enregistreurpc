@@ -33,6 +33,19 @@
                 length="11089002"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 1.4</title>
+            <pubDate>Mon, 25 May 2026 12:30:16 +0000</pubDate>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Correction de bug de MaJ</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v1.4/EnregistreurPC.dmg"
+                sparkle:edSignature="IGvxUgqTPl01sz9+bO45bPVDf11vxyasSHiaj49OhZr0UZCTCia/TT0IWBbbrAUCz/6UdrHBr73eTdokONsjCw=="
+                length="23911274"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
