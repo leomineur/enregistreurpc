@@ -111,6 +111,19 @@
                 length="3450215"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 3.0</title>
+            <pubDate>Fri, 29 May 2026 18:05:40 +0000</pubDate>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Refonte majeure : l&#x27;application vit désormais dans la barre des menus (panneau translucide façon Centre de contrôle) et n&#x27;occupe plus le Dock. Nouveautés : amplification de la voix (curseur de gain micro, utile pour les micros faibles) et choix du format de sortie (3 fichiers séparés ou fichier unique). Stabilité et fiabilité améliorées.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v3.0/EnregistreurPC.dmg"
+                sparkle:edSignature="Go+8nKLD2QSfHVWVcSmXTG44U6L0SSKKfsfmgY56oVVW9/f/VrXkqB0EXdsbHfrx9cRPEN0J+Y9qILZauJ19Ag=="
+                length="3419683"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
