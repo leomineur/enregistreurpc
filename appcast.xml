@@ -98,6 +98,19 @@
                 length="3434139"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 2.1</title>
+            <pubDate>Fri, 29 May 2026 13:27:41 +0000</pubDate>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Réglages de qualité vidéo (images/seconde et résolution) pour alléger les fichiers · nouvelle apparence Liquid Glass translucide aux couleurs FNPC (macOS 26) · sélecteur de source natif macOS, idéal pour les navigateurs (capture une fenêtre/onglet ou une application entière, avec son son) · avertissements audio (micro Bluetooth en qualité « téléphone », et risque d&#x27;écho sans écouteurs) · identification des voix améliorée (votre voix + interlocuteurs, placés chronologiquement) · robustesse et sécurité internes renforcées.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v2.1/EnregistreurPC.dmg"
+                sparkle:edSignature="eNWtV7Dtptvi5TLmBgiEcCXio+iEnAGF5vE9DzLTHMTZbNelV49SxTJrdOcHSNZ+bpCiLjyHZxgfOpD9rlX5BQ=="
+                length="3450215"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
