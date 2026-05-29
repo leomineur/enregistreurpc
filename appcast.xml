@@ -85,6 +85,19 @@
                 length="3348613"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 2.0.2</title>
+            <pubDate>Fri, 29 May 2026 10:41:46 +0000</pubDate>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Identification de votre propre voix (« Vous ») dans les enregistrements de visio, séparation améliorée des différents participants distants et placement chronologique correct des interventions, sélecteur optionnel du nombre de participants, plus diverses corrections de robustesse et de sécurité.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v2.0.2/EnregistreurPC.dmg"
+                sparkle:edSignature="GISFKCyACF6xDsOXyr71A0UZWwbaMsP8S3NsPPDWeMffzmlLMZjRqH9n6E4gz3EXRTVbhRVoesMm+gStqc6hAA=="
+                length="3434139"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
