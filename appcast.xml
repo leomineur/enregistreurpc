@@ -72,6 +72,19 @@
                 length="3342544"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 2.0.1</title>
+            <pubDate>Fri, 29 May 2026 07:29:52 +0000</pubDate>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Renforcement de la sécurité (protection du token HuggingFace), fiabilité accrue de l&#x27;identification des voix — détection automatique de Python et ffmpeg même au lancement depuis le Finder —, délais de sécurité sur l&#x27;installation des composants, et améliorations internes.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v2.0.1/EnregistreurPC.dmg"
+                sparkle:edSignature="9xaj8Vq6Zkd8zI4FWo2aI/CWsOVfbIxgkBJKh3XztrpKzehtYJ0O4efUZ7RWdCX0fCeGF6jjh3q8Al/rSLaoCA=="
+                length="3348613"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
