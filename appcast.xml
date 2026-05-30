@@ -124,6 +124,19 @@
                 length="3419683"
                 type="application/octet-stream" />
         </item>
+                <item>
+            <title>Version 3.1</title>
+            <pubDate>Sat, 30 May 2026 05:32:06 +0000</pubDate>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Halo violet autour de la fenêtre filmée pour voir d&#x27;un coup d&#x27;œil ce qui est enregistré (invisible dans l&#x27;enregistrement) · nom de la source affiché dans le panneau · sélection de source simplifiée et plus claire · réglages de qualité adaptés à la source : résolution et images/seconde proposées selon la fenêtre choisie, pour éviter les incompatibilités · correction de l&#x27;icône de partage d&#x27;écran qui restait affichée sans source sélectionnée.</p>]]></description>
+            <enclosure
+                url="https://github.com/leomineur/enregistreurpc/releases/download/v3.1/EnregistreurPC.dmg"
+                sparkle:edSignature="DGAEqN/jcwItplS7xRGc1aHmnJSHE5bskwlrcQhruxylRGm3iJrKGvwADCHEeb20Utw6WIkjoO/TBERcvx6kAw=="
+                length="3426280"
+                type="application/octet-stream" />
+        </item>
         <!-- INSERT_NEW_ITEM_BEFORE_THIS_LINE -->
     </channel>
 </rss>
